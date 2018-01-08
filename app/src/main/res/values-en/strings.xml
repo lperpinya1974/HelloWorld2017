@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">HelloWorld2017</string>
-    <string name="saludo"> Hi! It's my Android first program! </string>
+    <string name="saludo"> Hi! It\'s my Android first program! </string>
 
 </resources>
